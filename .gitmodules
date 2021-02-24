@@ -7,3 +7,6 @@
 [submodule "AirTunes"]
 	path = AirTunes
 	url = https://github.com/jerryrt/AirTunes.git
+[submodule "SwiftyRSA"]
+	path = SwiftyRSA
+	url = https://github.com/jerryrt/SwiftyRSA.git

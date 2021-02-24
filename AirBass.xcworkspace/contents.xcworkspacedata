@@ -16,4 +16,7 @@
    <FileRef
       location = "group:ABPlayerController/ABPlayerInterface.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:SwiftyRSA/SwiftyRSA.xcodeproj">
+   </FileRef>
 </Workspace>
